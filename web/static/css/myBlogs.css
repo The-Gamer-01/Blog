@@ -1,0 +1,26 @@
+.main{
+    height: 1600px;
+    weight: 100%;
+    background:  rgba(255, 255, 255, 0.5);
+    overflow: hidden;
+}
+.blog{
+    background-color: whitesmoke!important;
+    padding: 14px;
+    margin-top: 15px;
+    border-left: 6px solid #ccc!important;
+    border-color: #2196F3!important;
+    overflow: hidden;
+    position: relative;
+}
+.item-left{
+    float: left;
+    margin-right: 10px;
+}
+.item-right {
+    float: right;
+    margin-left: 10px;
+}
+.search{
+    overflow: hidden;
+}

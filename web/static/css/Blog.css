@@ -1,0 +1,9 @@
+.main{
+    height: 100%;
+    weight: 100%;
+    background:  rgba(255, 255, 255, 0.5);
+}
+body{
+    background-size: cover;
+    background-image: url("../img/backgroud.jpg");
+}

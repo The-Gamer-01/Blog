@@ -1,0 +1,86 @@
+font {
+    font-size: larger;
+}
+
+body {
+    background: #f1f1f1;
+}
+
+.backgroud {
+    background-color: rgb(245, 246, 247);
+    margin-top: 10px;
+}
+
+.main {
+    background-color: rgb(255, 255, 255);
+    /*border: 10px black;*/
+    padding: 15px;
+}
+
+.main img {
+    width: 100%;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.head {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    border-style: outset;
+}
+
+.comment {
+    overflow: hidden;
+}
+
+.authorHead {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-style: outset;
+}
+
+.tcomment {
+    overflow: hidden;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-left: 2px solid #ccc !important;
+    border-color: #f5f6f7 !important;
+}
+
+.headDiv {
+    background-color: white !important;
+    padding: 20px;
+    border-left: 20px solid #ccc !important;
+    border-color: #2196F3 !important;
+    overflow: hidden;
+    position: relative;
+    font-size: larger;
+    font-family: Microsoft YaHei;
+    margin-bottom: 10px;
+}
+
+.comments-div {
+    background: white !important;
+}
+
+.author-div {
+    background: white;
+}
+
+.otherBlog-div {
+    background: white;
+    font-size: larger;
+    padding: 15px;
+}
+
+.utl-div{
+    margin-bottom: 15px;
+}

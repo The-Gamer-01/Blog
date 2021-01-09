@@ -1,0 +1,22 @@
+th{
+    font-size: larger;
+    font-family: "Adobe 宋体 Std L";
+}
+#div2{
+    display: none;
+}
+#save{
+    display: none;
+}
+.head{
+    overflow: hidden;
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+}
+.uphead{
+    overflow: hidden;
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+}

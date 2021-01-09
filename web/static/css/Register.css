@@ -1,0 +1,18 @@
+.mid{
+    background:  rgba(255, 255, 255, 0.5);
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+body{
+    background-image: url("../img/backgroud.jpg");
+    background-size:100% 100%;
+}
+td{
+    text-align: center;
+}
+svg{
+    display: none;
+}

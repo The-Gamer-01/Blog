@@ -1,0 +1,24 @@
+.main{
+    height: 100%;
+    weight: 100%;
+    background: #333;
+    overflow: hidden;
+}
+.classes{
+    background-color: #ddffff!important;
+    padding: 14px;
+    border-left: 6px solid #ccc!important;
+    border-color: #2196F3!important;
+    overflow: hidden;
+}
+.item-left{
+    float: left;
+    margin-right: 10px;
+}
+.item-right{
+    float: right;
+    margin-left: 10px;
+}
+.head{
+    color: white;
+}

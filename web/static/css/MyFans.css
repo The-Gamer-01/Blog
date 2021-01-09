@@ -1,0 +1,17 @@
+.head{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+}
+.user-item{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background: 	WhiteSmoke;
+}
+.main{
+    height: 100%;
+    weight: 100%;
+    background:  rgba(255, 255, 255, 0.5);
+    overflow: hidden;
+}

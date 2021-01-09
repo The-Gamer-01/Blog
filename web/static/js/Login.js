@@ -1,0 +1,3 @@
+findPawd=function () {
+    var loc="";
+}
